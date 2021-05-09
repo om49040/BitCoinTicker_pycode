@@ -7,3 +7,5 @@ In this tkinter lib has been used to create the GUI.
 shows the values of the coin when clicked.
 it also has a facilty to generate leaderboard.
 The data is collected in realtime.
+# Execution
+ home_page.py should be executed first
